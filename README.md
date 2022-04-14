@@ -39,9 +39,10 @@ flask run
 # O site estará disponível através do link: http://localhost:5000/
 ```
 
-**Executar o banco de dados:** Para executar o banco de dados precisa inserir a senha do root do MySQL Workbench no arquivo app.py como mostrado no vídeo abaixo:
-![](/Readme/senha.gif)
-
+**Executar o banco de dados:** Para executar o banco de dados precisa inserir a sua senha do root do MySQL Workbench no arquivo app.py como mostrado no vídeo abaixo:
+<br><br>![](/Readme/senha.gif.gif)
+<br><br> Também precisa executar o banco de dados no Workbench, para efetuar essa tarefa tem que abrir o arquivo com o banco de dados no sistema do MySQL Workbench, no qual se encontra com o nome de SQLAPI na pasta database do projeto, como mostrado no vídeo abaixo: 
+<br><br>![](/Readme/mysql.mp4)
 
 ### Entregas de Sprints
 
