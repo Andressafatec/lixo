@@ -29,6 +29,7 @@ Tema: Sistema de Gestão de Serviços de Tecnologia da Informação
 > **Status do Projeto: Desenvolvendo**
 
 <span id="executar">
+ 
 ## :computer: Executando uma aplicação
 
 Depois de baixar o [python](https://www.pyth.org/download/) e clonar o projeto (ou baixá-lo):
