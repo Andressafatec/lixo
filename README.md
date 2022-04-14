@@ -28,14 +28,19 @@ Depois de baixar o [python](https://www.pyth.org/download/) e clonar o projeto (
 cd API-2022-1
 
 # Instale as dependências
-pip install -r requirements.txt
+pip install -r requirements.
+      
+# Habilitar recurso de desenvolvimento
+set FLASK_ENV=development
 
 # Executar uma aplicação
-python app.py
+flask run
 
 # O site estará disponível através do link: http://localhost:5000/
 ```
 
+**Executar o banco de dados:** Para executar o banco de dados precisa inserir a senha do root do MySQL Workbench no arquivo app.py como mostrado no vídeo abaixo:
+![](/Readme/senha.gif)
 
 
 ### Entregas de Sprints
