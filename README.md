@@ -8,6 +8,15 @@
 
 <hr>
 <h1 align="center"> Projeto de gestão de serviços de Tecnologia da Informação </h1>
+
+<p align="center">
+    <a href="#sobre">Sobre</a> |
+    <a href="#backlogs">Backlogs</a> |
+    <a href="#executar">Executando uma aplicação</a> |
+    <a href="#prototipo">Protótipo</a> |
+    <a href="#tecnologias">Tecnologias</a> |
+    <a href="#equipe">Equipe</a> |
+</p>
   
 <span id="sobre">
 
@@ -19,7 +28,8 @@ Tema: Sistema de Gestão de Serviços de Tecnologia da Informação
 > _Projeto baseado na metodologia ágil SCRUM, desenvolver a Proatividade, Autonomia e Entrega de Resultados envolvidos_ <br><br>
 > **Status do Projeto: Desenvolvendo**
 
-### Executando uma aplicação
+<span id="executar">
+## :computer: Executando uma aplicação
 
 Depois de baixar o [python](https://www.pyth.org/download/) e clonar o projeto (ou baixá-lo):
 
@@ -42,18 +52,7 @@ flask run
 **Executar o banco de dados:** Para executar o banco de dados precisa inserir a sua senha do root do MySQL Workbench no arquivo app.py como mostrado no vídeo abaixo:
 <br><br>![](/Readme/senha.gif.gif)
 <br><br> Também precisa executar o banco de dados no Workbench, para efetuar essa tarefa tem que abrir o arquivo com o banco de dados no sistema do MySQL Workbench, no qual se encontra com o nome de SQLAPI na pasta database do projeto, como mostrado no vídeo abaixo: 
-<br><br>![](/Readme/mysql.mp4)
-
-### Entregas de Sprints
-
-Cada entrega foi realizada a partir da criação de uma **tag**. Observe a relação a seguir:
-| Sprint | Tag | Lançamento | Situação | Relatórios |
-|:-----:|:-------------:|:----------:|:---------:| :---------:|
-| 01 | [sprint-01](link tag) | 14/04/2022 | Entregue | [ver relatório] |
-| 02 | [sprint-02](link tag) | 15/05/2022 | Não Entregue | [ver relatório]|
-| 03 | [sprint-03](link tag) | 05/06/2022 | Não Entregue | [ver relatório]||
-  
- → [Voltar ao topo](#topo)
+<br><br>![](/Readme/mysql.gif)
   
   <span id="backlogs">
 
