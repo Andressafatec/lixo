@@ -119,10 +119,20 @@ flask run
 ## :mag: User Stories
        
        
- | Código | Título | História | Prioridade | Requisitos
-| :----: | :--------- | :----------------------------------------------------------------------------- | :----------- | :------------ |
-|01| Página Admistrador | como administrador quero ter acesso a todas as funcionalidades do sistema para que consiga ter acesso as relatórios do sistema e consiga mudar o cargo de um usuário comum para o executor  | média | RF 01 | O professor ainda não respondeu
-|02| Página de solicitação pendentes do executor | como um executor quero poder atender a solicitação para que consiga aceitar ou rejeitar uma solicitação  | alta | RF 02 | O professor ainda não respondeu
+ | Código | Título | História | Prioridade | Requisitos | 
+| :----: | :--------- | :----------------------------------------------------------------------------- | :----------- | :-----------: |
+|01| Página Admistrador | como administrador quero ter acesso a todas as funcionalidades do sistema para que consiga ter acesso as relatórios do sistema e consiga mudar o cargo de um usuário comum para o executor  | média | RF 02 | O professor ainda não respondeu
+|02| Página de resposta do executor| como um executor quero poder atender a solicitação para que consiga aceitar ou rejeitar uma solicitação e se rejeitar é necessário colocar uma resposta  | alta | RF 03 | O professor ainda não respondeu
+|03| Página solicitações do usuário| como usuário comum quero poder abrir uma solicição para que consiga acompanhar o status das solicitação tanto da mais nova até a mais antigas | alta | RF 04 e RF 07 | O professor ainda não respondeu
+|04| Página solicitações do executor| como executor quero que uma solicitação de serviço seja abribuida a mim por um esquema de distribuição que seja justo e que não aconteça a atribuição de uma mesma solicitação para outro executor para que consiga ver a solicitação e não ocorrer uma repetição de uma mesma tarefa | média | RF 05 e RF 06 | O professor ainda não respondeu
+|05| Página solicitação| como executor quero que a solicitação pesa as informações de titulo, qual é o tipo de problema (Problema de Hardware, Problema de Software ou Esclarecimento/Informação), uma descrição do problema e caso o usuário tenha uma imagem ou um arquivo que possa ajudar o executor a entender melhor o problema e também quer que o sistema mostre a data e hora de criação e de fechamentio para que consiga ter toas as infromações necessárias para realizar o serviço | alta | RF 08 | O professor ainda não respondeu
+|06| Página relatórios| como administrador quero que o sistema gere relatorios que mostram a quantidade percentual de soliitações abertas e fechadas em um determinado tempo, a evolução diária da quantidade de solicitações abertas e fechadas, a avaliação média de cada executor e a avaliação media global do sistema para que consiga observar a evolução do sistema e observar se está dando tudo certo | baixa | RF 09 | O professor ainda não respondeu
+|07| Página avaliações| omo executor quero que ao terminar a solicitação que o usuário responda uma avaliação para que eu veja se executei um boa serviço| baixa | RF 09 | O professor ainda não respondeu
+|08| Linguagem de progarmação| ocomo cliente quero que o back end seja resolvido pela a linguagem python 3+ e o microfamework Flask para que o funcionamento da página | alta | RFN 01 | O professor ainda não respondeu
+|09| Banco de Dados | como cliente quero quer o banco de dados seja desenvolvido no sistema de banco de dados MariaDB/MySQL para armarzenamento de dados | alta | RFN 02 | O professor ainda não respondeu
+|10| Customização da página | como cliente quero que utilize o html 5, CSS 3 e JavaScript para a customizações do layout | média | RFN 03, RFN 04 e RFN 08  | O professor ainda não respondeu
+|11| Compartilhamento | como cliente quero que utilize o html 5, CSS 3 e JavaScript para a customizações do layout | baixa | RFN 05  | O professor ainda não respondeu
+|11| Interface | como cliente quero um sistema de fácil entendimento e com um layout de sejá intuitiva que consiga usar no computador e no celular para que eu consigar ter uma compreensão melhor do sistema e consiga acessar ele em qualquer aparelho| baixa | RFN 06 e RFN 07  | O professor ainda não respondeu
        
 
 
