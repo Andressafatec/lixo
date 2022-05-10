@@ -1,0 +1,29 @@
+como administrador quero ter acesso a todas as funcionalidades do sistema para que consiga ter acesso as relatórios do sistema e consiga mudar 
+o cargo de um usuário comum para o executor 
+
+como um executor quero poder atender a solicitação para que consiga aceitar ou rejeitar uma solicitação
+
+como usuário comum quero poder abrir uma solicição para que consiga acompanhar o status das solicitação tanto da mais nova até a mais antigas
+
+como executor quero que uma solicitação de serviço seja abribuida a mim por um esquema de distribuição que seja justo e que não aconteça a atribuição 
+de uma mesma solicitação para um executor para que consiga ver a solicitação e não acorrer uma repetição de uma mesma tarefa
+
+como executor quero que a solicitação pesa as informações de titulo, qual é o tipo de problema (Problema de Hardware, Problema de Software ou Esclarecimento/Informação), uma descriçãoa
+do problema e caso o usuário tenha uma imagem ou um arquivo que possa ajudar o executor a entender melhor o problema e também quer que o sistema mostre a data e hora de criação e de fechamentio
+para que consiga ter toas as infromações necessárias para realizar o serviço
+
+como executor quero que ao terminar a solicitação que o usuário responda uma avaliação para que eu veja se executei um boa serviço
+
+como administrador quero que o sistema gere relatorios que mostram a quantidade percentual de soliitações abertas e fechadas em um determinado tempo, a evolução diária da quantidade de solicitações abertas e fechadas, a avaliação média de cada executor e a avaliação media global do sistema para que 
+consiga observar a evolução do sistema e observar se está dando tudo certo 
+
+como cliente quero que o back end seja resolvido pela a linguagem python 3+ e o microfamework Flask para que o funcionamento da página
+
+como cliente quero quer o banco de dados ser desenvolvido no sistema de banco de dados MariaDB/MySQL para armarzenamento de dados 
+
+como cliente quero que utilize o html 5, CSS 3 e JavaScript para a customizações do layout
+
+como cliente quero que utilize o Git para o compartilhamento do projeto
+
+como cliente quero um sistema de fácil entendimento e com um layout de sejá intuitiva que consiga usar no computador e no celular
+para que eu consigar ter uma compreensão melhor do sistema e consiga acessar ele em qualquer aparelho 
